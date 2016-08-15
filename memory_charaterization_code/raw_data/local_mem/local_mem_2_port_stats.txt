@@ -1,0 +1,9 @@
+Initializing OpenCL
+Platform: Altera SDK for OpenCL
+Using 1 device(s)
+  de5net_a7 : Altera's Preferred Board
+Using AOCX: demystify.aocx
+Generating input matrices
+
+Time: 3114.880 ms
+Kernel time (device 0): 3114.810 ms

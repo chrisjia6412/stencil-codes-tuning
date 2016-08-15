@@ -1,0 +1,15 @@
+Matrix sizes:
+  A: 1026 x 1026
+  C: 1024 x 1024
+Initializing OpenCL
+Platform: Altera SDK for OpenCL
+Using 1 device(s)
+  de5net_a7 : Altera's Preferred Board
+Using AOCX: stencil.aocx
+Generating input matrices
+
+Time: 3.886 ms
+Kernel time (device 0): 3.781 ms
+Computing reference output
+Verifying
+Verification: PASS

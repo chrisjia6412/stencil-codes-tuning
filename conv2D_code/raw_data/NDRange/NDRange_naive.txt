@@ -1,0 +1,18 @@
+Matrix sizes:
+  A: 1032 x 1032
+  B: 9 x 9
+  C: 1024 x 1024
+Initializing OpenCL
+Platform: Altera SDK for OpenCL
+Using 1 device(s)
+  de5net_a7 : Altera's Preferred Board
+Using AOCX: convolution.aocx
+Generating input matrices
+Launching for device 0 (global size: 1024, 1024)
+Launching for device 0 (local size: 32, 32)
+
+Time: 288.766 ms
+Kernel time (device 0): 288.718 ms
+Computing reference output
+Verifying
+Verification: PASS
